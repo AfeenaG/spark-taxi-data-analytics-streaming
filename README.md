@@ -111,11 +111,11 @@ counted trips per pickup location using window operations
 
 wrote streaming results to:
 
-console output
+- console output
 
-memory tables
+- memory tables
 
-parquet files
+- parquet files
 
 This demonstrates how Apache Spark Structured Streaming enables real-time analytics pipelines.
 
