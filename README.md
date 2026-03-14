@@ -1,4 +1,6 @@
 **Spark Taxi Data Analytics & Streaming**
+**Spark Architecture**
+![Spark Architecture Diagram](images/spark-architecture/spark-architecture.png)
 **Project Overview**
 
 This project analyzes large-scale taxi trip data using distributed data processing techniques with Apache Spark. The objective is to explore batch analytics, SQL-based querying, real-time streaming pipelines, and low-level distributed transformations.
