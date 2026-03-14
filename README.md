@@ -159,11 +159,10 @@ real-time mobility dashboards
 
 smart city infrastructure analytics
 
-Author
+**Author**
 
 Afeena Gafoor
 Master’s Student – Business Analytics & AI
 Ontario Tech University
 
-GitHub Portfolio:
-https://github.com/AfeenaG
+**GitHub Portfolio:** https://github.com/AfeenaG
