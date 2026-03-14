@@ -130,8 +130,7 @@ _Map: extract pickup location and fare_
 _ReduceByKey: compute total fare per pickup location_
 
 _Filter: identify trips with high passenger counts_
-![Map Reduce1](images/RDD/Map%20Reduce1.png)
-![Map Reduce2](images/RDD/Map%20Reduce2.png)
+![Map Reduce](images/RDD/Map%20Reduce1.png)
 
 This component illustrates the differences between Spark’s lower-level RDD API and higher-level abstractions.
 
