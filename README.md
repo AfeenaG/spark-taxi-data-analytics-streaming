@@ -62,7 +62,7 @@ Key tasks included:
 
 **Example analytics:**
 
-1. Average trip distance per month
+**1. Average trip distance per month**
 ![Average Trip Distance per day of month](images/dataframe/Average Trip Distance per day of month.png)
 
 2. Top pickup locations by trip volume
