@@ -58,7 +58,7 @@ Key tasks included:
 - cleaning missing and invalid values
 - performing distributed analytical queries
 
-Example analytics:
+**Example analytics:**
 
 1. Average trip distance per day
 2. Top pickup locations by trip volume
@@ -133,11 +133,11 @@ Detection of suspicious fare patterns
 
 The project demonstrates how Spark enables scalable analytics on large transportation datasets.
 
-Key Learnings
+**Key Learnings**
 
 This project highlights the strengths of different Spark abstractions:
 
-Framework	Strength
+**Framework	Strength**
 RDD	Low-level distributed control
 DataFrames	Optimized structured analytics
 Spark SQL	Familiar SQL-based analysis
@@ -145,7 +145,7 @@ Structured Streaming	Real-time data processing
 
 Spark’s query optimizer improves performance by automatically optimizing execution plans.
 
-Real-World Applications
+**Real-World Applications**
 
 The techniques used in this project can be applied to many real-world systems:
 
