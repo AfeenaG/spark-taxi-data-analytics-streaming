@@ -21,15 +21,15 @@ The dataset used is the NYC Yellow Taxi Trip Records, provided by the New York C
 
 It contains detailed records of taxi trips including:
 
-pickup and drop-off timestamps
+- _pickup and drop-off timestamps_
 
-_pickup and drop-off locations_
+- _pickup and drop-off locations_
 
-_passenger count_
+- _passenger count_
 
-_trip distance_
+- _trip distance_
 
-_fare amount_
+- _fare amount_
 
 **Source:**
 
