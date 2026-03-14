@@ -83,12 +83,17 @@ The dataset was converted into a temporary SQL view and queried using Spark SQL.
 Key queries included:
 
 identifying peak taxi pickup hours
+![Peak Pickup Hours](images/dataframe/Peak%20Pickup%20Hours.png)
 
 calculating daily revenue
+![Peak Pickup Hours](images/dataframe/Total%20Revenue%20Per%20Day.png)
 
 detecting busiest pickup–drop-off routes
+![Busiest Pickup DropOff Location](images/dataframe/Top%205%20busiest%20pickup_dropoff%20pairs.png)
 
 identifying suspicious trips with unusually high fares
+
+![Suspicious Trips](images/dataframe/Detect%20Suspicious%20Trips.png)
 
 This shows how SQL-based analysis can be performed directly on distributed datasets.
 
