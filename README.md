@@ -63,16 +63,16 @@ Key tasks included:
 **Example analytics:**
 
 1. Average trip distance per month
-![Average Trip Distance per day of month](images/dataframe/Average%20Trip%20Distance%20per%20day%20of%20month.png)
+![Average Trip Distance per day of month](images/SparkSQL/Average%20Trip%20Distance%20per%20day%20of%20month.png)
 
 2. Top pickup locations by trip volume
-![Top 10 locations by number of trips](images/dataframe/Top%2010%20locations%20by%20number%20of%20trips.png)
+![Top 10 locations by number of trips](images/SparkSQL/Top%2010%20locations%20by%20number%20of%20trips.png)
 
 3. Average fare per passenger count
-![Average Fare per passenger count](images/dataframe/Average%20Fare%20per%20passenger%20count.png)
+![Average Fare per passenger count](images/SparkSQL/Average%20Fare%20per%20passenger%20count.png)
 
 4. Fare distribution for trips longer than 10 miles
-![Filter trips longer than 10 miles and analyse the fare distribution](images/dataframe/Filter%20trips%20longer%20than%2010%20miles%20and%20analyse%20the%20fare%20distribution.png)
+![Filter trips longer than 10 miles and analyse the fare distribution](images/SparkSQL/Filter%20trips%20longer%20than%2010%20miles%20and%20analyse%20the%20fare%20distribution.png)
 
 These operations demonstrate Spark’s ability to perform large-scale distributed analytics efficiently.
 
