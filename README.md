@@ -163,15 +163,15 @@ Spark’s query optimizer improves performance by automatically optimizing execu
 
 The techniques used in this project can be applied to many real-world systems:
 
--ride-sharing analytics platforms
+- ride-sharing analytics platforms
 
--transportation demand forecasting
+- transportation demand forecasting
 
--fraud detection in transaction streams
+- fraud detection in transaction streams
 
--real-time mobility dashboards
+- real-time mobility dashboards
 
--smart city infrastructure analytics
+- smart city infrastructure analytics
 
 **Author**
 
